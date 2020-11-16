@@ -1,4 +1,4 @@
-# Análise de perfil de usuários (Parte I)
+# Análise de perfil de usuários do Passei Direto (Parte I)
 
 ## Introdução
 
@@ -14,7 +14,7 @@ Definindo um star chema e escrevendo o pipeline ETL, os dados baseados em arquiv
 Utilizando os arquivos courses.json, sessions.json, student_follow_subject.json, students.json, subjects.json, subscription.json, universities.json foi criado um star schema como mostrado abaixo, que inclui
 
 - Uma tabela fato: **students**, e 
-- Seis tabelas dimensões: **courses**, **sessions**, **student_follow_subject**, **students**, **subjects**, **subscription**, e **universities**.
+- Seis tabelas dimensões: **courses**, **sessions**, **student_follow_subject**, **subjects**, **subscription**, e **universities**.
 
 ![Star Schema](images/star_schema.png)
 
