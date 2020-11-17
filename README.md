@@ -86,7 +86,7 @@ Se você deseja executar esse projeto em sua máquina, você deve finalizar os s
 
 A figura abaixo trás uma captura de tela do dashboard.
 
-![Dashboard](images/dashboard_pd.PNG)
+![Dashboard](images/dashboard.PNG)
 
 
 
