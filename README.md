@@ -16,7 +16,7 @@ Utilizando os arquivos courses.json, sessions.json, student_follow_subject.json,
 - Uma tabela fato: **students**, e 
 - Seis tabelas dimensões: **courses**, **sessions**, **student_follow_subject**, **subjects**, **subscription**, e **universities**.
 
-![Star Schema](images/star_schema.png)
+![Star Schema](images/star_schema.PNG)
 
 ### ETL Pipeline
 
