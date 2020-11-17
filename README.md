@@ -24,6 +24,8 @@ O ETL pipeline extrai os dados dos arquivos e faz a inserção nas tabelas do My
 
 ![Pipeline ETL](images/Pipeline_ETL_PasseiDireto.png)
 
+Sabendo que trata-se de uma base estática e que no mundo real esses dados são populados constantemente, para que a base analítica seja mantida atualizada podemos ...
+
 ## Como executar
 
 ### Pré-requisitos
