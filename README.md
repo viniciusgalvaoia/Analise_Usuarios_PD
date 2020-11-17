@@ -77,5 +77,14 @@ Se você deseja executar esse projeto em sua máquina, você deve finalizar os s
   - Descrição e instruções sobre o projeto
 - **sql_queries.py**
   - Contém todas instruções DLL definidas
-- **PasseiDireto.pbix**
-  - Dashboard com as análises realizadas.
+
+## Dashboard
+
+É possível realizar várias análises de perfil de usuários através do dashboard desenvolvido no Power BI através desse [link](https://app.powerbi.com/view?r=eyJrIjoiNTBkNmQ0YTMtMWM2OS00NjA4LWI2M2QtM2ExNmE4ZGUwM2JiIiwidCI6ImYwMjAyMmRkLWI3YmYtNGU3OC04MjFjLWFmN2VlMjk2ZTgyNiJ9).
+
+A figura abaixo trás uma captura de tela do dasbhoard.
+
+![Dashbiard](images/dashboard.png)
+
+
+
