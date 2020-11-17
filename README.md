@@ -84,7 +84,7 @@ Se você deseja executar esse projeto em sua máquina, você deve finalizar os s
 
 A figura abaixo trás uma captura de tela do dashboard.
 
-![Dashboard](images/dashboard_pd.PNG){:height="36px" width="36px"}.
+![Dashboard](images/dashboard_pd.PNG){:height="50%" width="50%"}
 
 
 
