@@ -82,7 +82,7 @@ Se você deseja executar esse projeto em sua máquina, você deve finalizar os s
 
 ## Dashboard
 
-É possível realizar várias análises de perfil de usuários através do dashboard desenvolvido no Power BI através desse [link](https://app.powerbi.com/view?r=eyJrIjoiNjdkMTgwOTMtMDIxZS00MDZiLWIyMDItYzU5MDczZTU4OWE1IiwidCI6ImYwMjAyMmRkLWI3YmYtNGU3OC04MjFjLWFmN2VlMjk2ZTgyNiJ9).
+É possível realizar várias análises de perfil de usuários através do dashboard desenvolvido no Power BI através desse [link](https://app.powerbi.com/view?r=eyJrIjoiYzAzMjE0ZGUtZGM3Yy00NjI4LThiOWYtMDBjNWJkNmJjYjI2IiwidCI6ImYwMjAyMmRkLWI3YmYtNGU3OC04MjFjLWFmN2VlMjk2ZTgyNiJ9).
 
 A figura abaixo trás uma captura de tela do dashboard.
 
