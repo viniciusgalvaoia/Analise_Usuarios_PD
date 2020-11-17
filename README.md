@@ -84,7 +84,7 @@ Se você deseja executar esse projeto em sua máquina, você deve finalizar os s
 
 A figura abaixo trás uma captura de tela do dashboard.
 
-![Dashboard](images/dashboard_pd.PNG =919x514)
+![Dashboard](images/dashboard_pd.PNG) <!-- .element height="50%" width="50%" -->
 
 
 
