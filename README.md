@@ -11,7 +11,7 @@ Definindo um star chema e escrevendo o pipeline ETL, os dados baseados em arquiv
 ### Data Schema
 
 
-Utilizando os arquivos courses.json, sessions.json, student_follow_subject.json, students.json, subjects.json, subscription.json, universities.json foi criado um star schema como mostrado abaixo, que inclui
+Utilizando os arquivos courses.json, sessions.json, student_follow_subject.json, students.json, subjects.json, subscription.json, universities.json foi feita uma modelagem de dados como mostrado abaixo, que inclui
 
 - Uma tabela fato: **students**, e 
 - Seis tabelas dimensões: **courses**, **sessions**, **student_follow_subject**, **subjects**, **subscription**, e **universities**.
