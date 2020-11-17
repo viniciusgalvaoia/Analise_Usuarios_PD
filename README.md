@@ -32,6 +32,7 @@ Se você deseja executar esse projeto em sua máquina, você deve finalizar os s
 
 - Instalar `MySQL` em localhost.
 - Criar usuário `root` com senha `admin`.
+- Instalar Python 3.
 - Instalar as bibliotecas:
   - mysql.connector==8.0.21
   - pandas==1.0.5
