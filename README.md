@@ -77,8 +77,6 @@ Se você deseja executar esse projeto em sua máquina, você deve finalizar os s
     - Iterar entre todos arquivos dentro de data/BASE_A para extrair os dados de cada arquivo e inseri-los em suas respectivas tabelas na base de dados do MySQL
 - **sql_queries.py**
   - Contém todas instruções DLL definidas
-- **user_activity.ipynb**
-  - Notebook com as análises da segunda parte do projeto
 - **README.md**
   - Descrição e instruções sobre o projeto
 
@@ -94,3 +92,26 @@ A figura abaixo trás uma captura de tela do dashboard.
 # Análise de perfil de usuários do Passei Direto (Parte II)
 
 
+## Introdução
+Esta etapa do projeto tem como objetivo fazer o processamento da `BASE A` juntamente com a `BASE B` para extrair informações importantes que permitam analisar o que os usuários do Passei Direto acessam em sua plataforma e como fazem isso.
+
+## Como executar
+
+### Pré-requisitos
+
+Se você deseja executar esse projeto em sua máquina, você deve finalizar os seguintes passos primeiro.
+
+- Instalar Python 3.
+- Instalar Pyspark==3.0.1.
+
+### Instruções
+
+1. Executar todas células do notebook `user_activity.ipynb`.
+
+## Arquivos do projeto
+
+- **data/BASE_B**
+  - **part-[0000x].json**
+    - Eventos de Page View que os usuários realizaram no dia 16 de Novembro de 2017.
+- **user_activity.ipynb**
+  - Notebook com as análises da segunda parte do projeto
