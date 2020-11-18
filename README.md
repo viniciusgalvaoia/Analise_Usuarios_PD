@@ -24,7 +24,15 @@ O ETL pipeline extrai os dados dos arquivos e faz a inserção nas tabelas do My
 
 ![Pipeline ETL](images/Pipeline_ETL_PasseiDireto.png)
 
-Sabendo que trata-se de uma base estática e que no mundo real esses dados são populados constantemente, para que a base analítica seja mantida atualizada podemos ...
+Sabendo que trata-se de uma base estática e que no mundo real esses dados são populados constantemente, para que a base analítica seja mantida atualizada podemos utilizar um orquestrador de jobs, como o `Airflow`, para selecionar somente os dados relevantes em um dado período de tempo para o pipeline.
+
+Com isso, conseguimos definir o escopo do job para ser executado apenas com os dados do período a partir da última execução do pipeline de dados – nos ajudando a aumentar a qualidade e a acurácia das análises realizadas pelo nosso pipeline.
+
+A definição de um período de tempo apropiado para a `schedule` depende de algums fatores, como:
+
+- O tamanho do conjunto de dados, em média, para um determinado período
+- Quão frequente as análises precisam ser realizadas
+
 
 ## Como executar
 
@@ -114,4 +122,4 @@ Se você deseja executar esse projeto em sua máquina, você deve finalizar os s
   - **part-[0000x].json**
     - Eventos de Page View que os usuários realizaram no dia 16 de Novembro de 2017.
 - **user_activity.ipynb**
-  - Notebook com as análises da segunda parte do projeto
+  - Notebook com as análises de atividades de usuários na plataforma da Passei Direto
