@@ -75,10 +75,12 @@ Se você deseja executar esse projeto em sua máquina, você deve finalizar os s
   - Quando executado, esse script irá 
   Quando executado, esse script irá:
     - Iterar entre todos arquivos dentro de data/BASE_A para extrair os dados de cada arquivo e inseri-los em suas respectivas tabelas na base de dados do MySQL
-- **README.md**
-  - Descrição e instruções sobre o projeto
 - **sql_queries.py**
   - Contém todas instruções DLL definidas
+- **user_activity.ipynb**
+  - Notebook com as análises da segunda parte do projeto
+- **README.md**
+  - Descrição e instruções sobre o projeto
 
 ## Dashboard
 
@@ -88,5 +90,7 @@ A figura abaixo trás uma captura de tela do dashboard.
 
 ![Dashboard](images/dashboard.PNG)
 
+
+# Análise de perfil de usuários do Passei Direto (Parte II)
 
 
