@@ -122,4 +122,4 @@ Se você deseja executar esse projeto em sua máquina, você deve finalizar os s
   - **part-[0000x].json**
     - Eventos de Page View que os usuários realizaram no dia 16 de Novembro de 2017.
 - **user_activity.ipynb**
-  - Notebook com as análises de atividades de usuários na plataforma da Passei Direto
+  - Notebook com as análises de atividades de usuários na plataforma do Passei Direto.
